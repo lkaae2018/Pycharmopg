@@ -1,0 +1,2 @@
+# Pycharmopg
+Opgaver til Pycharm
